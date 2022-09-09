@@ -28,9 +28,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Torubot" //namabot kalian
 global.ownername= "Athayamuluq" //nama kalian
-global.instagram ="https://instagram.com/Athayamuluq" //bebas asal jan hapus
+global.myweb ="https://instagram.com/Athayamuluq" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Athayamuluq" //bebas asal jan hapus
-global.discord = "https://discord.gg/wFgNxXueJJ" //bebas
+global.myweb2 = "https://discord.gg/wFgNxXueJJ" //bebas
 global.email = "Athayamuluq4@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
