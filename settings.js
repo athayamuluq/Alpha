@@ -4,19 +4,19 @@ const  { indonesia, english, spanyol} = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-  alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-  'https://api.zeeoneofc.xyz': 'UdbgLAY7',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
-global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -28,21 +28,21 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Torubot" //namabot kalian
 global.ownername= "Athayamuluq" //nama kalian
-global.myweb ="https://instagram.com/Athayamuluq" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/Athayamuluq" //bebas asal jan hapus
-global.myweb2 = "https://discord.gg/wFgNxXueJJ" //bebas
-global.email = "Athayamuluq4@gmail.com" //bebas
+global.myweb ="https://instagram.com/athayamuluq" //bebas asal jan hapus
+global.youtube = "https://youtube.com/athayamuluq" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com/IL14HXqGNPY9ZHaRmpCwCO" //bebas
+global.email = "athayamuluq2@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62895366601524'] //premium user
-global.owner = ["62895366601524","6281257760202"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6287745642535'] //premium user
+global.owner = ["6287745642535","62895366601524"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895366601524" // nomor wa kalian
 global.ownernomerr = "+62895366601524" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Torubot' //sticker wm ubah
+global.packname = '© Athayamuluq' //sticker wm ubah
 global.author = 'Di Buat Oleh Athayamuluq' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'

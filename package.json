@@ -1,7 +1,7 @@
 {
-  "name": "Torubot-Md",
-  "version": "1.1.4",
-  "description": "Torubot Md, Only update in Instagram athayamuluq",
+  "name": "Torubot",
+  "version": "1.1.6",
+  "description": "Torubot, Hello",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,22 +14,22 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Athayamuluq",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
     "awesome-phonenumber": "^2.64.0",
     "amethyste-api": "^1.1.5",
-    "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
     "cfonts": "^2.10.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
     "emoji-api": "^2.0.1",
+    "express": "^4.18.1",
     "fetch": "^1.1.0",
     "figlet": "^1.5.2",
     "file-type": "^16.5.3",
@@ -60,8 +60,6 @@
     "scrape-primbon": "^1.1.0",
     "util": "^0.12.4",
     "xfarr-api": "^1.0.2",
-    "yargs": "^17.2.1",
-    "yt-search": "^2.7.6",
-    "ytdl-core": "^4.10.0"
+    "yargs": "^17.2.1"
   }
 }
